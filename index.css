@@ -1,0 +1,20 @@
+body {
+    margin: 0px;
+}
+
+.bg-container {
+    min-height: 100vh;
+    background-image: url("https://assets.ccbp.in/frontend/intermediate-rwd/dream-car-bg.png");
+    background-size: cover;
+    color: whitesmoke;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.image {
+    height: 100px;
+    width: 100px;
+}
